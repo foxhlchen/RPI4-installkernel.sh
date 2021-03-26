@@ -1,7 +1,6 @@
 # RaspberryPi4-installkernel.sh
 
  RPI4 Manjaro installkernel script  
- Fox Chen <foxhlchen@gmail.com>
 
 ## Setup:  
    copy /boot/config.txt to /boot/config.txt.origin  
