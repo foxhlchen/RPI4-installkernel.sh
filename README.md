@@ -7,8 +7,8 @@
    copy this script to /sbin/installkernel  
   
 ## Usage:  
-   git clone <mainline kernel src code>  
-   cd <mainline kernel src code folder>  
+   git clone `<mainline kernel src code>`  
+   cd `<mainline kernel src code folder>`  
    make defconfig  
    sudo make modules_install install  
 
